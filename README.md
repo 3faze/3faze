@@ -1,5 +1,4 @@
-I'm **3faze**, a software developer that works with: Python, Javascript, C++, HTML, CSS, LUA & more!
-
+I'm **3faze**, a python software developer.
 
 You can **find me** at:
 - [@3faze on twitter.](twitter.com/3faze)
