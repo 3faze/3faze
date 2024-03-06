@@ -1,7 +1,3 @@
-I'm **3faze**, a multi-language software developer.
+I'm **Tomás Pereira**, a learning programmer. I wish to become a compiler engineer even thought the market is small.
 
-I'm also a big enjoyer of Ruby.
-
-You can **find me** at:
-- [@3faze on twitter.](twitter.com/3faze)
-- [@3faze on github.](github.com/3faze)
+I'm also a big enjoyer of Ruby/Python because of their simplicity, C++ for it's complexity and use cases and C and ASM for the use cases aswell.
